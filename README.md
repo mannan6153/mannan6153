@@ -11,10 +11,16 @@ I'm a versatile full-stack developer passionate about crafting seamless user exp
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannan6153&show_icons=true)](https://github.com/mannan6153/github-readme-stats)
 
-### GitHub Stats
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannan6153&layout=compact" />
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div>
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=mannan6153&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  </div>
+  <div>
+    <!-- Most Used Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannan6153&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages"/>
+  </div>
 </div>
+
 
 
