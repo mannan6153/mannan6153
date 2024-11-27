@@ -8,3 +8,5 @@ I'm a versatile full-stack developer passionate about crafting seamless user exp
 - 🌟 **Projects:** [Photography Studio Sidebar UI](link), [Simon Says Web Game](link)
 - 📈 **GitHub Stats:** ![Mannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannan6153&show_icons=true&theme=radical)
 - 🔗 **Connect with me:** [LinkedIn](link), [Portfolio](link)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannan6153)](https://github.com/mannan6153/github-readme-stats)
