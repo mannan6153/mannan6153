@@ -11,8 +11,6 @@ I'm a versatile full-stack developer passionate about crafting seamless user exp
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannan6153&show_icons=true)](https://github.com/mannan6153/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mannan6153)](https://github.com/mannan6153/github-readme-stats)
-
 ### GitHub Stats
 
 <div align="right">
