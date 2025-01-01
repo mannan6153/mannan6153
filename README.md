@@ -4,7 +4,7 @@
 
 Passionate about seamless user experiences and robust backend solutions.
 
-- 🌟 **Skills:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Node.js, Express, SQL, MongoDB, Git & GitHub
+- 🌟 **Skills:** HTML, CSS, JavaScript, python, Bootstrap, Tailwind CSS, Node.js, Express, SQL, MongoDB, Git & GitHub
 
 - 📫 **Connect:** [LinkedIn](link) | [Portfolio](link)
   
