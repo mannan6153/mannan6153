@@ -10,7 +10,7 @@ Passionate about seamless user experiences and robust backend solutions.
 - 🌟 **Databases:** SQL, PostgreSQL, MongoDB
 - 🌟 **Version Control:** Git & GitHub
 
-### 📫 Connect: [LinkedIn](link) | [Portfolio](link) | [Email](mailto:abdul.mannan6153@gmail.com)
+### 📫 Connect: [LinkedIn](https://www.linkedin.com/in/abdul-mannan-webdev/) | [Portfolio](link) | [Email](mailto:abdul.mannan6153@gmail.com)
 
 
 
