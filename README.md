@@ -12,16 +12,5 @@ Passionate about seamless user experiences and robust backend solutions.
 
 ### 📫 Connect: [LinkedIn](link) | [Portfolio](link) | [Email](mailto:abdul.mannan6153@gmail.com)
 
-### 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <img alt="Mannan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mannan6153&show_icons=true" style="height: 200px;"/>
-    </td>
-    <td style="vertical-align: top;">
-      <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannan6153&layout=compact" style="height: 200px;"/>
-    </td>
-  </tr>
-</table>
 
