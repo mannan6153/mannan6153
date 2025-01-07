@@ -5,12 +5,12 @@
 Passionate about seamless user experiences and robust backend solutions.
 
 ### 🚀 Skills:
-- 🌟 **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+- 🌟 **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Astro
 - 🌟 **Backend:** Python, Django, Node.js, Express
-- 🌟 **Databases:** SQL, PostgreSQL, MongoDB
+- 🌟 **Databases:** MySQL, PostgreSQL, MongoDB
 - 🌟 **Version Control:** Git & GitHub
 
-### 📫 Connect: [LinkedIn](https://www.linkedin.com/in/abdul-mannan-webdev/) | [Portfolio](link) | [Email](mailto:abdul.mannan6153@gmail.com)
+### 📫 Reach Out: [LinkedIn](https://www.linkedin.com/in/abdul-mannan-webdev/) | [Portfolio](link) | [Email](mailto:abdul.mannan6153@gmail.com)
 
 
 
