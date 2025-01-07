@@ -5,6 +5,7 @@
 Passionate about seamless user experiences and robust backend solutions.
 
 ### 🚀 Skills:
+- 🌟 **Programming Languages:** Python, JavaScript, C++
 - 🌟 **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Astro
 - 🌟 **Backend:** Python, Django, Node.js, Express
 - 🌟 **Databases:** MySQL, PostgreSQL, MongoDB
